@@ -1,0 +1,15 @@
+adminUser:
+  password: local:eclipse-che/adminUser:password
+  username: admin
+docker:
+  email: p.malji@gmail.com
+  password: local:eclipse-che/docker:password
+  url: https://hub.docker.com/
+  username: pradeepmalji
+enableDocker: true
+pipelineUser:
+  email: p.malji@gmail.com
+  token: local:eclipse-che/pipelineUser:token
+  username: pradeepmalji
+prow:
+  hmacToken: local:eclipse-che/prow:hmacToken
