@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: pradeepmalji
+  repo: spring-boot-rest-example
+  url: https://github.com/pradeepmalji/spring-boot-rest-example.git
+  version: ""
+  versionURL: ""
